@@ -8,3 +8,6 @@ Some of the code and description of this notebook is provided by Udacity's Deep 
 https://github.com/deep-diver/CIFAR10-img-classification-tensorflow
 
 This notebook has been reproduced by my self for learn CNN used Tensorflow and **try implement LeNet-5 Architecture**
+
+![alt text](http://ataspinar.com/wp-content/uploads/2017/07/lenet5_architecture.png)
+
